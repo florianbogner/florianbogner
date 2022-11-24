@@ -40,6 +40,10 @@
 
 
 ## 💻  Previously...
+- 🧠 2022: working at [**TUM Visual Computing & AI chair**](https://niessnerlab.org) (Prof. Niessner) 
+  - object detection and tracking on custom autonomous driving dataset
+  - using state-of-the-art GAN approaches on OpenShift cluster to develop domain transfer from synthetic simulator data to real-like images for autonomous driving
+	
 - 🚀 2020: founded **WorkNow** - a technology startup building the first all-in-one employee search and management solution for small businesses. Scaled up to 25 employees.
 - 🚀 2016: founded **addBots** - a technology startup optimizing mobile conversions using a new generation of websites. Scaled up to 10 employees.
 - 🎓 2013: scholarship for highly gifted students through the **Max Weber Program** of the Free State of Bavaria through the Bavarian Elite Support Act
@@ -52,7 +56,7 @@ I'm currently working on a few cool projects that are not quite ready for prime 
 
 
 ## 📫  Get In Touch
-I'm always interested in pretty much any exchange about technology, philosophy or arts, so hmu:
+I'm always interested in pretty much any exchange about technology, philosophy or arts, so HMU:
 
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/florian-bogner-84a907142/)
 [![gmail](https://img.shields.io/badge/mail-929292?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:kontakt@florian-bogner.de)
